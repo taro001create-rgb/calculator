@@ -1,0 +1,53 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light Mode — Porcelain Daylight
+val LightBgTop = Color(0xFFEAF2FC)
+val LightBgBottom = Color(0xFFF6F8FC)
+val LightSurface = Color(0xFFFFFFFF)
+val LightSurfaceElevated = Color(0xFFF0F5FB)
+val LightBorder = Color(0xFFDCE5F2)
+val LightTextPrimary = Color(0xFF0F172A)
+val LightTextSecondary = Color(0xFF475569)
+val LightTextMuted = Color(0xFF64748B)
+
+val LightKeyNumberBg = Color(0xFFFFFFFF)
+val LightKeyNumberFg = Color(0xFF0F172A)
+val LightKeyFunctionBg = Color(0xFFE6F0FA)
+val LightKeyFunctionFg = Color(0xFF0369A1)
+val LightKeyOperatorBg = Color(0xFFD6ECFE)
+val LightKeyOperatorFg = Color(0xFF025A8B)
+val LightKeyClearBg = Color(0xFFFFE8EC)
+val LightKeyClearFg = Color(0xFFBE123C)
+val LightKeyEqualsBg = Color(0xFFEA580C)
+val LightKeyEqualsFg = Color(0xFFFFFFFF)
+val LightAccentCyan = Color(0xFF0284C7)
+val LightAccentAmber = Color(0xFFD97706)
+val LightErrorFg = Color(0xFFDC2626)
+val LightErrorBg = Color(0xFFFEF2F2)
+
+// Dark Mode — Obsidian Precision
+val DarkBgTop = Color(0xFF131D35)
+val DarkBgBottom = Color(0xFF090E1A)
+val DarkSurface = Color(0xFF111827)
+val DarkSurfaceElevated = Color(0xFF182235)
+val DarkBorder = Color(0xFF243047)
+val DarkTextPrimary = Color(0xFFF8FAFC)
+val DarkTextSecondary = Color(0xFFCBD5E1)
+val DarkTextMuted = Color(0xFF94A3B8)
+
+val DarkKeyNumberBg = Color(0xFF1A2336)
+val DarkKeyNumberFg = Color(0xFFF8FAFC)
+val DarkKeyFunctionBg = Color(0xFF212E45)
+val DarkKeyFunctionFg = Color(0xFF38BDF8)
+val DarkKeyOperatorBg = Color(0xFF16324F)
+val DarkKeyOperatorFg = Color(0xFF38BDF8)
+val DarkKeyClearBg = Color(0xFF311B27)
+val DarkKeyClearFg = Color(0xFFFB7185)
+val DarkKeyEqualsBg = Color(0xFFF59E0B)
+val DarkKeyEqualsFg = Color(0xFF090E1A)
+val DarkAccentCyan = Color(0xFF38BDF8)
+val DarkAccentAmber = Color(0xFFFBBF24)
+val DarkErrorFg = Color(0xFFFB7185)
+val DarkErrorBg = Color(0xFF2C1620)
